@@ -8,8 +8,7 @@ Registration & Login Demo Project
 https://www.docker.com/community-edition#/download
 - Execute: **git clone https://github.com/rakodev/sf4-registration-login.git**
 - Execute: **cd sf4-registration-login/**
-* Install Project:
------
+- Install Project:
 ```sh
 sh ./setup.sh
 ```
